@@ -53,10 +53,23 @@
 
 # 📊 GitHub Stats:
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Rasath16&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rasath16&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasath16&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Rasath16&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Rasath16&theme=dark&show_icons=true&count_private=true&count_public=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasath16&theme=dark&hide_border=false&count_private=true" /> 
+</td>
+<td width="50%" align="center">
 
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rasath16&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 
 ![snake gif](https://github.com/Rasath16/Rasath16/blob/output/github-snake-dark.svg)
