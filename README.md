@@ -61,7 +61,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Rasath16&theme=dark&show_icons=true&count_private=true&count_public=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasath16&theme=dark&hide_border=false&count_private=true" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasath16&theme=dark&hide_border=false&count_private=true&count_public=true" /> 
 </td>
 <td width="50%" align="center">
 
@@ -70,6 +70,7 @@
   </td>
 </tr>
 </table>
+
 
 
 ![snake gif](https://github.com/Rasath16/Rasath16/blob/output/github-snake-dark.svg)
