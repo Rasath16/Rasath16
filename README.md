@@ -59,7 +59,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  ![Rasath16's Stats](https://github-readme-stats.vercel.app/api?username=Rasath16&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&count_public=true)
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Rasath16&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasath16&theme=dark&hide_border=false" /> 
 </td>
@@ -70,8 +70,6 @@
   </td>
 </tr>
 </table>
-
-
 
 
 ![snake gif](https://github.com/Rasath16/Rasath16/blob/output/github-snake-dark.svg)
