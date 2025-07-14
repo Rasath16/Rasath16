@@ -53,23 +53,7 @@
 
 # 📊 GitHub Stats:
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Rasath16&theme=dark&show_icons=true" />
-  <br></br>
 
-</td>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rasath16&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
 
 
 ![snake gif](https://github.com/Rasath16/Rasath16/blob/output/github-snake-dark.svg)
