@@ -66,6 +66,19 @@
 | 💡 **Soft Skills**        | Communication (English & Sinhalese), Analytical Thinking, Adaptability, Customer Service, Problem Solving, Team Collaboration, Time Management, Self-learning & Initiative |
 
 
+## 📊 GitHub Stats & Activity
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rasath16&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+      <br />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasath16&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 
 # 📊 WorkFlow:
