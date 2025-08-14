@@ -66,25 +66,19 @@
 | 💡 **Soft Skills**        | Communication (English & Sinhalese), Analytical Thinking, Adaptability, Customer Service, Problem Solving, Team Collaboration, Time Management, Self-learning & Initiative |
 
 
+
 ## 📊 GitHub Stats & Activity
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rasath16&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rasath16&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
+<div align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rasath16&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rasath16&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<br>
+![Rasath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasath16&theme=chartreuse-dark&hide_border=true&show_icons=true)  
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasath16&layout=compact&hide_border=true&theme=chartreuse-dark)
+
+</div>
+
 
 
 # 📊 WorkFlow:
