@@ -48,22 +48,19 @@
 </p>
 
 
+🛠️ Technologies & Skills
 
+| 🗂️ Category                  | 🚀 Technologies & Skills                                                                                                                                                                  |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🌐 **Languages**              | Python, JavaScript, TypeScript, Java, SQL                                                                                                                                                 |
+| 📊 **Frameworks & Libraries** | Flask, FastAPI, Django (basics), Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn, OpenCV, React, Next.js, Tailwind CSS, Bootstrap, Node.js, Express.js |
+| 🗄️ **Databases**             | MongoDB, MySQL, PostgreSQL                                                                                                                                                                |
+| ☁️ **Cloud & DevOps**         | AWS (EC2, S3, SageMaker), Docker, Kubernetes (basics), Terraform, GitHub Actions (CI/CD)                                                                                                  |
+| 🧰 **Tools & Platforms**      | Git, GitHub, Jupyter Notebook, PyCharm, VS Code, Postman, Figma, Linux, Windows                                                                                                           |
+| 📊 **BI & Analytics**         | Power BI, Tableau, Microsoft Excel, Google Sheets                                                                                                                                         |
+| 🧪 **Testing**                | Pytest, Unit Testing, Postman API Testing                                                                                                                                                 |
+| 💡 **Soft Skills**            | Communication (English & Sinhalese), Analytical Thinking, Problem Solving, Team Collaboration, Adaptability, Time Management, Self-Learning & Initiative                                  |
 
-## 🛠️ Technologies & Skills
-
-| 🗂️ Category              | 🚀 Technologies & Skills                                                                                         |
-|--------------------------|------------------------------------------------------------------------------------------------------------------|
-| 🌐 **Languages**         | Python, JavaScript, TypeScript, Java, SQL                                                  |
-| 🎨 **Frontend**          | React, Next.js, Tailwind CSS, Bootstrap                                                                      |
-| 🛠️ **Backend**           | Node.js, Express, Firebase, .NET Web API, Django, Flask, FastAPI                                                 |
-| 📊 **Frameworks & Libraries** | Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn, Spark, Kafka                          |
-| 🗄️ **Databases**          |  MongoDB, MySQL                                                                       |
-| ⚙️ **Cloud & DevOps**     | AWS, Docker, Kubernetes, Terraform                                                                                |
-| 🧰 **Tools & Platforms**   | Git, GitHub, Figma,  Postman, Jupyter Notebook, PyCharm, VS Code, Visual Studio, Linux, Windows |
-| 📈 **BI & Productivity**  | Power BI, Tableau, Microsoft Excel, Word, PowerPoint, Google Sheets, Canva                                       |
-| 🧪 **Testing**            | Jest, Pytest, Selenium                                                                                             |                                                                                  |
-| 💡 **Soft Skills**        | Communication (English & Sinhalese), Analytical Thinking, Adaptability, Customer Service, Problem Solving, Team Collaboration, Time Management, Self-learning & Initiative |
 
 
 
