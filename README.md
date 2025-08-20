@@ -77,13 +77,6 @@
 </div>
 
 
-
-# 📊 WorkFlow:
-
-
-
-![snake gif](https://github.com/Rasath16/Rasath16/blob/output/github-snake-dark.svg)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rasath16&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
