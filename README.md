@@ -65,11 +65,9 @@
 
 <div align="center">
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rasath16&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-<br>
-![Rasath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasath16&theme=chartreuse-dark&hide_border=true&show_icons=true)  
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasath16&layout=compact&hide_border=true&theme=chartreuse-dark)
+![](https://github-readme-stats.vercel.app/api?username=Rasath16&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rasath16&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasath16&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
