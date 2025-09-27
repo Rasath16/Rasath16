@@ -8,10 +8,10 @@
 	<img src="https://komarev.com/ghpvc/?username=Rasath16&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=20px, width=120px/>
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Rasath16?label=Followers&style=social"> •
 </p>
-<br />
+<br/>
 
 
-	
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
