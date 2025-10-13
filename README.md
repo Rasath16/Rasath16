@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **AI and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://www.techwiseaid.com/](https://www.techwiseaid.com/)
+- 👨‍💻 All of my projects are available at [https://www.techwiseaid.com/](https://www.techwiseaid.com/projects/)
 
 - 📝 I regularly write articles on [https://www.techwiseaid.com/blog/](https://www.techwiseaid.com/blog/)
 
