@@ -28,7 +28,7 @@
 - 💬 Ask me about **python | ML concepts**
 
 - 📫 How to reach me **tharusharasathml@gmail.com**
-- 
+ 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tharusha-rasath-5b9643243/](https://www.linkedin.com/in/tharusha-rasath-5b9643243/)
 
 
