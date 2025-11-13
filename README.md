@@ -48,11 +48,11 @@
 | 🗂️ Category                  | 🚀 Technologies & Skills                                                                                                                                                                  |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🌐 **Languages**              | Python, JavaScript, TypeScript, Java, SQL                                                                                                                                                 |
-| 📊 **Frameworks & Libraries** | Flask, FastAPI, Django (basics), Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn, OpenCV, React, Next.js, Tailwind CSS, Bootstrap, Node.js, Express.js |
+| 📊 **Frameworks & Libraries** | Flask, FastAPI, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn, OpenCV|
 | 🗄️ **Databases**             | MongoDB, MySQL, PostgreSQL                                                                                                                                                                |
 | ☁️ **Cloud & DevOps**         | AWS (EC2, S3, SageMaker), Docker, Kubernetes (basics), Terraform, GitHub Actions (CI/CD)                                                                                                  |
 | 🧰 **Tools & Platforms**      | Git, GitHub, Jupyter Notebook, PyCharm, VS Code, Postman, Figma, Linux, Windows                                                                                                           |
-| 📊 **BI & Analytics**         | Power BI, Tableau, Microsoft Excel, Google Sheets                                                                                                                                         |
+| 📊 **BI & Analytics**         | Power BI, Microsoft Excel, Google Sheets                                                                                                                                         |
 | 🧪 **Testing**                | Pytest, Unit Testing, Postman API Testing                                                                                                                                                 |
 | 💡 **Soft Skills**            | Communication (English & Sinhalese), Analytical Thinking, Problem Solving, Team Collaboration, Adaptability, Time Management, Self-Learning & Initiative                                  |
 
