@@ -47,7 +47,7 @@ I am a final-year Computer Science undergraduate transitioning into **AI Enginee
 </p>
 
 
-🛠️ Technologies & Skills
+## 🛠️ Technologies & Skills
 
 | 🗂️ Category                  | 🚀 Technologies & Skills                                                                                                                                                                  |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -62,11 +62,11 @@ I am a final-year Computer Science undergraduate transitioning into **AI Enginee
 
 
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rasath16&show_icons=true&theme=algolia&hide_border=false&count_private=true" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=Rasath16&show_icons=true&theme=algolia&hide_border=false&commits_year=2025" alt="stats graph"  />
 	
 ![](https://nirzak-streak-stats.vercel.app/?user=Rasath16&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasath16&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
