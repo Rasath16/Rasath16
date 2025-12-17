@@ -10,24 +10,28 @@
 </p>
 <br/>
 
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
-- 🌱 I’m currently learning **AI and Machine Learning**
+I am a final-year Computer Science undergraduate transitioning into **AI Engineering**. unlike many students who stop at model training, I focus on the **engineering lifecycle**—building reliable, scalable systems that solve real business problems.
 
+- 💼 **Looking For:** Internship opportunities in AI Engineering / Machine Learning & Data Science 
+- 🛠️ **Current Focus:** Building scalable **RAG systems** and optimizing **MLOps** workflows on AWS.
+- ✍️ **Writing:** I break down complex tech concepts at [TechWiseAid.com](https://www.techwiseaid.com/blog/).
+- 📫 **Contact:** [tharusharasathml@gmail.com](mailto:tharusharasathml@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tharusha-rasath-5b9643243/)
 
-- 👨‍💻 All of my projects are available at [https://www.techwiseaid.com/](https://www.techwiseaid.com/projects/)
+<br/>
 
-- 📝 I regularly write articles on [https://www.techwiseaid.com/blog/](https://www.techwiseaid.com/blog/)
+## 🚀 Featured Projects (Production-Ready Code)
 
-- 💬 Ask me about **python | ML concepts**
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[🎬 End-to-End MLOps Pipeline](https://github.com/rasath16/youtube-sentiment-pipeline)** | A real-time YouTube sentiment analysis engine with a Chrome Extension. Features automated CI/CD deployment, model versioning, and cloud serving. | **Docker, AWS EC2, GitHub Actions, MLflow, DVC, Flask** |
+| **[🩺 MedRagnosis (RAG)](https://github.com/Rasath16/MedRagnosis)** | A medical diagnostic engine achieving **96% faithfulness**. Uses a "Doctor-in-the-loop" workflow to analyze medical records safely. | **LangChain, Pinecone, Ragas, OpenAI, Streamlit** |
 
-- 📫 How to reach me **tharusharasathml@gmail.com**
- 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tharusha-rasath-5b9643243/](https://www.linkedin.com/in/tharusha-rasath-5b9643243/)
+<br/>
 
 
 <h3 align="center">Connect with me:</h3>
@@ -61,6 +65,8 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rasath16&show_icons=true&theme=algolia&hide_border=false&count_private=true" alt="stats graph"  />
 	
 ![](https://nirzak-streak-stats.vercel.app/?user=Rasath16&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasath16&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
