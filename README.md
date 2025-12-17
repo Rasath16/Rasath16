@@ -66,7 +66,6 @@ I am a final-year Computer Science undergraduate transitioning into **AI Enginee
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rasath16&show_icons=true&theme=algolia&hide_border=false&commits_year=2025" alt="stats graph"  />
 	
 ![](https://nirzak-streak-stats.vercel.app/?user=Rasath16&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasath16&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
