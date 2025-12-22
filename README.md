@@ -17,7 +17,7 @@
 
 I am a final-year Computer Science undergraduate transitioning into **AI Engineering**. unlike many students who stop at model training, I focus on the **engineering lifecycle**—building reliable, scalable systems that solve real business problems.
 
-- 💼 **Looking For:** Internship opportunities in AI Engineering / Machine Learning & Data Science 
+- 💼 **Looking For:** Internship opportunities in AI Engineering / Machine Learning, Data Science and GenAI Engineering
 - 🛠️ **Current Focus:** Building scalable **RAG systems** and optimizing **MLOps** workflows on AWS.
 - ✍️ **Writing:** I break down complex tech concepts at [TechWiseAid.com](https://www.techwiseaid.com/blog/).
 - 📫 **Contact:** [tharusharasathml@gmail.com](mailto:tharusharasathml@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tharusha-rasath-5b9643243/)
