@@ -64,10 +64,10 @@ I am a final-year Computer Science undergraduate transitioning into **AI Enginee
 ## 📊 GitHub Stats & Activity 
 
 <div align="center">
-
 	
-![](https://nirzak-streak-stats.vercel.app/?user=Rasath16&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasath16&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Rasath16's Stats](https://github-readme-stats.vercel.app/api?username=Rasath16&theme=algolia&show_icons=true&hide_border=true&count_private=true)<br/>
+![Rasath16's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rasath16&theme=algolia&hide_border=true)<br/>
+![Rasath16's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasath16&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
