@@ -67,10 +67,12 @@ I am a final-year Computer Science undergraduate transitioning into **AI Enginee
 	
 ![Rasath16's Stats](https://github-readme-stats.vercel.app/api?username=Rasath16&theme=algolia&show_icons=true&hide_border=true&count_private=true)<br/>
 
-![Rasath16's Streak](http://github-readme-streak-stats.herokuapp.com?user=Rasath16&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=Rasath16&theme=algolia&hide_border=true&cache_seconds=86400&count_private=true)
+
+
 <br/>
 
-![Rasath16's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasath16&theme=algolia&show_icons=true&hide_border=true&layout=compact)
+![Rasath16's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasath16&theme=algolia&show_icons=true&hide_border=true&layout=compact&count_private=true)
 
 </div>
 
