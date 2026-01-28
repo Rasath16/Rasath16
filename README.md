@@ -3,7 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Machine+Learning+enthusiast;Computer+Science+Undergraduate;Competitive+Programmer;Always+learning+new+things;Blog+Writer+@techwiseaid.com"></a>
 </p>
 <br>
-
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=Rasath16&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=20px, width=120px/>
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Rasath16?label=Followers&style=social"> •
